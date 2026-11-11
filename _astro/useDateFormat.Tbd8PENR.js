@@ -1,0 +1,1 @@
+import{n as e}from"./_plugin-vue_export-helper.Cu5wuwAN.js";function t(){let{locale:t}=e();function n(e,n){return(typeof e==`string`?new Date(e):e).toLocaleDateString(t.value,n)}return{formatDate:n}}export{t};
